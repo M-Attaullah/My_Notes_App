@@ -54,8 +54,6 @@
 
 ## 📸 Screenshots
 
-> Replace the placeholder image paths with your actual screenshots before submission.
-
 | 🏠 Home Screen | ➕ Add Note Screen | ✏️ Edit Note Screen | 🔐 Login Screen |
 |----------------|-------------------|---------------------|----------------|
 | ![Home](screenshots/home.png) | ![Add](screenshots/add_note.png) | ![Edit](screenshots/edit_note.png) | ![Login](screenshots/login.png) |
