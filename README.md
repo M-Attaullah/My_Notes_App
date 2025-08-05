@@ -56,7 +56,7 @@
 
 | 🏠 Home Screen | ➕ Add Note Screen | 👤 Register Screen | 🔐 Login Screen |
 |----------------|-------------------|---------------------|----------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add_note.png) | ![Register](screenshots/register.png) | ![Login](screenshots/login.png) |
+| ![Home](screenshots/home.png) | ![Add_Note](screenshots/add_note.png) | ![Register](screenshots/register.png) | ![Login](screenshots/login.png) |
 
 ---
 
